@@ -1,0 +1,11 @@
+E:\DTcms\DTcms.DBUtility\bin\Release\DTcms.DBUtility.dll
+E:\DTcms\DTcms.DBUtility\bin\Release\DTcms.DBUtility.pdb
+E:\DTcms\DTcms.DBUtility\bin\Release\DTcms.Common.dll
+E:\DTcms\DTcms.DBUtility\bin\Release\DTcms.Common.pdb
+E:\DTcms\DTcms.DBUtility\obj\Release\DTcms.DBUtility.csprojAssemblyReference.cache
+E:\DTcms\DTcms.DBUtility\obj\Release\DTcms.DBUtility.csproj.CoreCompileInputs.cache
+E:\DTcms\DTcms.DBUtility\obj\Release\DTcms.DBUtility.csproj.CopyComplete
+E:\DTcms\DTcms.DBUtility\obj\Release\DTcms.DBUtility.dll
+E:\DTcms\DTcms.DBUtility\obj\Release\DTcms.DBUtility.pdb
+E:\DTcms\DTcms.DBUtility\bin\Release\MySql.Data.dll
+E:\DTcms\DTcms.DBUtility\bin\Release\MySql.Data.xml

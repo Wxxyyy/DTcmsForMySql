@@ -1,0 +1,6 @@
+E:\DTcms\DTcms.Common\bin\Release\DTcms.Common.dll
+E:\DTcms\DTcms.Common\bin\Release\DTcms.Common.pdb
+E:\DTcms\DTcms.Common\obj\Release\DTcms.Common.csprojAssemblyReference.cache
+E:\DTcms\DTcms.Common\obj\Release\DTcms.Common.csproj.CoreCompileInputs.cache
+E:\DTcms\DTcms.Common\obj\Release\DTcms.Common.dll
+E:\DTcms\DTcms.Common\obj\Release\DTcms.Common.pdb

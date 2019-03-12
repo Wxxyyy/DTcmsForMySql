@@ -1,0 +1,15 @@
+E:\DTcms\DTcms.DAL.MySql\bin\Release\DTcms.DAL.MySql.dll
+E:\DTcms\DTcms.DAL.MySql\bin\Release\DTcms.DAL.MySql.pdb
+E:\DTcms\DTcms.DAL.MySql\bin\Release\DTcms.Common.dll
+E:\DTcms\DTcms.DAL.MySql\bin\Release\DTcms.DBUtility.dll
+E:\DTcms\DTcms.DAL.MySql\bin\Release\DTcms.Model.dll
+E:\DTcms\DTcms.DAL.MySql\bin\Release\MySql.Data.dll
+E:\DTcms\DTcms.DAL.MySql\bin\Release\DTcms.Common.pdb
+E:\DTcms\DTcms.DAL.MySql\bin\Release\DTcms.DBUtility.pdb
+E:\DTcms\DTcms.DAL.MySql\bin\Release\DTcms.Model.pdb
+E:\DTcms\DTcms.DAL.MySql\bin\Release\MySql.Data.xml
+E:\DTcms\DTcms.DAL.MySql\obj\Release\DTcms.DAL.MySql.csprojAssemblyReference.cache
+E:\DTcms\DTcms.DAL.MySql\obj\Release\DTcms.DAL.MySql.csproj.CoreCompileInputs.cache
+E:\DTcms\DTcms.DAL.MySql\obj\Release\DTcms.DAL.MySql.csproj.CopyComplete
+E:\DTcms\DTcms.DAL.MySql\obj\Release\DTcms.DAL.MySql.dll
+E:\DTcms\DTcms.DAL.MySql\obj\Release\DTcms.DAL.MySql.pdb

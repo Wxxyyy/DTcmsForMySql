@@ -1,0 +1,9 @@
+E:\DTcms\DTcms.Model\bin\Release\DTcms.Model.dll
+E:\DTcms\DTcms.Model\bin\Release\DTcms.Model.pdb
+E:\DTcms\DTcms.Model\bin\Release\DTcms.Common.dll
+E:\DTcms\DTcms.Model\bin\Release\DTcms.Common.pdb
+E:\DTcms\DTcms.Model\obj\Release\DTcms.Model.csprojAssemblyReference.cache
+E:\DTcms\DTcms.Model\obj\Release\DTcms.Model.csproj.CoreCompileInputs.cache
+E:\DTcms\DTcms.Model\obj\Release\DTcms.Model.csproj.CopyComplete
+E:\DTcms\DTcms.Model\obj\Release\DTcms.Model.dll
+E:\DTcms\DTcms.Model\obj\Release\DTcms.Model.pdb
